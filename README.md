@@ -3,6 +3,8 @@ prerender-redis-cache
 
 Prerender plugin for Redis caching, to be used with the prerender node application from https://github.com/prerender/prerender.
 
+NOTE: This uses Chome Headless instead of PhantomJS
+
 How it works
 ------------
 
